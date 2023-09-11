@@ -58,7 +58,7 @@ namespace enums
                     Console.WriteLine("nice choice, bebsi cola");
                     break;
                 case Beverage.Juice:
-                 //   Console.Writeline("one orange juice coming your way");
+                    Console.WriteLine("one orange juice coming your way");
                     break;
             
             }
